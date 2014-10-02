@@ -13,7 +13,7 @@ import java.io.InputStream;
  * Actual solution is at the top
  * @author HeartCoder
  */
-public class ChefAndSequence {
+public class ChefAndSequenceMain {
 	public static void main(String[] args) {
 		InputStream inputStream = System.in;
 		OutputStream outputStream = System.out;

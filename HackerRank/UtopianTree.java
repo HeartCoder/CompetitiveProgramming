@@ -6,7 +6,7 @@ import java.math.BigInteger;
 /**
  * Created by HeartCoder on 8/18/2014.
  */
-public class Solution {
+public class UtopianTree {
     static int testCases;
     static int N;
 
